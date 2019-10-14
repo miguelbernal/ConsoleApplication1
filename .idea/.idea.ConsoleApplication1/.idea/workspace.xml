@@ -1,21 +1,42 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1469437b-9770-4034-8e21-a231584f7b13" name="Default Changelist" comment="" />
+    <list default="true" id="1469437b-9770-4034-8e21-a231584f7b13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ConsoleApplication1/Persona.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApplication1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication1/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication1/ConsoleApplication1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication1/ConsoleApplication1.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ConsoleApplication1/packages.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApplication1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApplication1/Persona.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApplication1/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/ConsoleApplication1/README.md" />
+        <option value="$PROJECT_DIR$/ConsoleApplication1/packages.config" />
         <option value="$PROJECT_DIR$/ConsoleApplication1/Program.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApplication1/Persona.cs" />
       </list>
     </option>
   </component>
@@ -69,14 +90,30 @@
       <option name="presentableId" value="Default" />
       <updated>1570834033870</updated>
       <workItem from="1570834038326" duration="4034000" />
+      <workItem from="1570840150695" duration="205000" />
+      <workItem from="1570876775779" duration="77000" />
+      <workItem from="1571066831544" duration="2412000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>

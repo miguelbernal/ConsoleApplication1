@@ -3,3 +3,6 @@ C:\Users\miguelangel\RiderProjects\ConsoleApplication1\ConsoleApplication1\bin\D
 C:\Users\miguelangel\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
 C:\Users\miguelangel\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\miguelangel\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\miguelangel\RiderProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\miguelangel\RiderProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\miguelangel\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete

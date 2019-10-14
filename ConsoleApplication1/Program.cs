@@ -18,7 +18,7 @@ namespace ConsoleApplication1
             {
                 //Console.WriteLine(e);
             }
-            Console.WriteLine("Continuando con el programa");
+            Console.WriteLine("Continuando con el programa.");
             Int16 var2 = 12512;
             Console.WriteLine(var2);
             string nombre = "Juan Gonzalez";
@@ -67,6 +67,19 @@ namespace ConsoleApplication1
                     Console.WriteLine("Dia eroneo");
                     break;
             }
+            
+            Persona persona = new Persona();
+            persona.Id = 1;
+            persona.Nombre = "Juan González";
+            persona.Estatura = 1.90f;
+            persona.MayorEdad = true;
+            
+            Console.WriteLine(persona);
+            
+            Persona persona2 = new Persona(2,"Jose Perez",1.75f,false);
+            
+            Console.WriteLine(persona2);
+
 
         }
     }
